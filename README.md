@@ -2,4 +2,6 @@
 
 A Slack clone created using React and firebase
 
+Functionality
+
 Features
