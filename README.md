@@ -1,7 +1,8 @@
 # Slack Clone Web-App
 
-A Slack clone created using React and firebase
+A Slack clone created using React, Redux and firebase
 
-Functionality
+Functionality:
 
-Features
+Features:
+
